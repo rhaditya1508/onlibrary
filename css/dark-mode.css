@@ -1,0 +1,12 @@
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.navbar-dark .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
